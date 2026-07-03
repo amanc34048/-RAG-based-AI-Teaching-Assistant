@@ -1,4 +1,4 @@
-#How to Use the RAG based AI Teaching Assistant
+#How to Use the RAG based AI Teaching Assistant '''
 
 Follow the steps below to prepare the video database and start searching for relevant videos.
 
@@ -32,30 +32,30 @@ Send the retrieved context to the LLM.
 Return the most relevant video(s) along with the matching timestamps.
 Workflow
 Videos
-   │
-   ▼
+│
+▼
 Video to MP3
-   │
-   ▼
+│
+▼
 Speech to Text
-   │
-   ▼
+│
+▼
 Transcript Chunks (JSON)
-   │
-   ▼
+│
+▼
 Generate Embeddings
-   │
-   ▼
+│
+▼
 Vector Database
-   │
-   ▼
+│
+▼
 User Query
-   │
-   ▼
+│
+▼
 Retrieve Relevant Chunks
-   │
-   ▼
+│
+▼
 LLM
-   │
-   ▼
+│
+▼
 Relevant Video + Timestamp
