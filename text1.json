@@ -1,0 +1,235 @@
+{"text": " Let's see how many things of daily life are enough to take you up First of all, water If you drink 6 liters of water in a day, then there will be flood in your body All doors will open and you will be drowned Now mosquitoes There will be 12 lakh mosquitoes in total to suck all the blood of your body and to play your game Now tea which you drink with great fun 250 cups of tea a day is enough to make your tea And now finally potatoes If you eat some green potatoes then your work will be done in 25 years And if you eat such potatoes then only one potato is enough to make you a twinkle twinkle little star", "segments": [
+        {"id": 0, "seek": 0, "start": 0.0, "end": 4.5, "text": " Let's see how many things of daily life are enough to take you up", "tokens": [
+                50364,
+                961,
+                311,
+                536,
+                577,
+                867,
+                721,
+                295,
+                5212,
+                993,
+                366,
+                1547,
+                281,
+                747,
+                291,
+                493,
+                50589
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 1, "seek": 0, "start": 4.5, "end": 5.5, "text": " First of all, water", "tokens": [
+                50589,
+                2386,
+                295,
+                439,
+                11,
+                1281,
+                50639
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 2, "seek": 0, "start": 5.5, "end": 8.0, "text": " If you drink 6 liters of water in a day,", "tokens": [
+                50639,
+                759,
+                291,
+                2822,
+                1386,
+                32323,
+                295,
+                1281,
+                294,
+                257,
+                786,
+                11,
+                50764
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 3, "seek": 0, "start": 8.0, "end": 10.0, "text": " then there will be flood in your body", "tokens": [
+                50764,
+                550,
+                456,
+                486,
+                312,
+                10481,
+                294,
+                428,
+                1772,
+                50864
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 4, "seek": 0, "start": 10.0, "end": 11.5, "text": " All doors will open", "tokens": [
+                50864,
+                1057,
+                8077,
+                486,
+                1269,
+                50939
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 5, "seek": 0, "start": 11.5, "end": 13.0, "text": " and you will be drowned", "tokens": [
+                50939,
+                293,
+                291,
+                486,
+                312,
+                38233,
+                51014
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 6, "seek": 0, "start": 13.0, "end": 14.0, "text": " Now mosquitoes", "tokens": [
+                51014,
+                823,
+                39394,
+                51064
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 7, "seek": 0, "start": 14.0, "end": 16.5, "text": " There will be 12 lakh mosquitoes in total", "tokens": [
+                51064,
+                821,
+                486,
+                312,
+                2272,
+                33314,
+                39394,
+                294,
+                3217,
+                51189
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 8, "seek": 0, "start": 16.5, "end": 19.0, "text": " to suck all the blood of your body", "tokens": [
+                51189,
+                281,
+                9967,
+                439,
+                264,
+                3390,
+                295,
+                428,
+                1772,
+                51314
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 9, "seek": 0, "start": 19.0, "end": 20.5, "text": " and to play your game", "tokens": [
+                51314,
+                293,
+                281,
+                862,
+                428,
+                1216,
+                51389
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 10, "seek": 0, "start": 20.5, "end": 21.5, "text": " Now tea", "tokens": [
+                51389,
+                823,
+                5817,
+                51439
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 11, "seek": 0, "start": 21.5, "end": 23.5, "text": " which you drink with great fun", "tokens": [
+                51439,
+                597,
+                291,
+                2822,
+                365,
+                869,
+                1019,
+                51539
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 12, "seek": 0, "start": 23.5, "end": 25.5, "text": " 250 cups of tea a day is enough", "tokens": [
+                51539,
+                11650,
+                13381,
+                295,
+                5817,
+                257,
+                786,
+                307,
+                1547,
+                51639
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 13, "seek": 0, "start": 25.5, "end": 27.5, "text": " to make your tea", "tokens": [
+                51639,
+                281,
+                652,
+                428,
+                5817,
+                51739
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 14, "seek": 0, "start": 27.5, "end": 29.0, "text": " And now finally potatoes", "tokens": [
+                51739,
+                400,
+                586,
+                2721,
+                11811,
+                51814
+            ], "temperature": 0.0, "avg_logprob": -0.5022379657414955, "compression_ratio": 1.7058823529411764, "no_speech_prob": 0.022099779918789864
+        },
+        {"id": 15, "seek": 2900, "start": 29.0, "end": 31.0, "text": " If you eat some green potatoes", "tokens": [
+                50364,
+                759,
+                291,
+                1862,
+                512,
+                3092,
+                11811,
+                50464
+            ], "temperature": 0.0, "avg_logprob": -0.32684576511383057, "compression_ratio": 1.4700854700854702, "no_speech_prob": 0.0007891783025115728
+        },
+        {"id": 16, "seek": 2900, "start": 31.0, "end": 33.5, "text": " then your work will be done in 25 years", "tokens": [
+                50464,
+                550,
+                428,
+                589,
+                486,
+                312,
+                1096,
+                294,
+                3552,
+                924,
+                50589
+            ], "temperature": 0.0, "avg_logprob": -0.32684576511383057, "compression_ratio": 1.4700854700854702, "no_speech_prob": 0.0007891783025115728
+        },
+        {"id": 17, "seek": 2900, "start": 33.5, "end": 35.0, "text": " And if you eat such potatoes", "tokens": [
+                50589,
+                400,
+                498,
+                291,
+                1862,
+                1270,
+                11811,
+                50664
+            ], "temperature": 0.0, "avg_logprob": -0.32684576511383057, "compression_ratio": 1.4700854700854702, "no_speech_prob": 0.0007891783025115728
+        },
+        {"id": 18, "seek": 2900, "start": 35.0, "end": 37.0, "text": " then only one potato is enough", "tokens": [
+                50664,
+                550,
+                787,
+                472,
+                7445,
+                307,
+                1547,
+                50764
+            ], "temperature": 0.0, "avg_logprob": -0.32684576511383057, "compression_ratio": 1.4700854700854702, "no_speech_prob": 0.0007891783025115728
+        },
+        {"id": 19, "seek": 2900, "start": 37.0, "end": 39.5, "text": " to make you a twinkle twinkle little star", "tokens": [
+                50764,
+                281,
+                652,
+                291,
+                257,
+                683,
+                14095,
+                683,
+                14095,
+                707,
+                3543,
+                50889
+            ], "temperature": 0.0, "avg_logprob": -0.32684576511383057, "compression_ratio": 1.4700854700854702, "no_speech_prob": 0.0007891783025115728
+        }
+    ], "language": "hi"
+}
